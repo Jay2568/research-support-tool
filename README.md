@@ -21,12 +21,12 @@
 
 ## 起動方法
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
-cd backend
-pip install -r requirements.txt
-python main.py
+- cd backend
+- pip install -r requirements.txt
+- python main.py
 
 
