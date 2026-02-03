@@ -19,6 +19,11 @@
 - `frontend/`: Next.js によるユーザーインターフェース
 - `backend/`: Python による解析ロジック・API
 
+### データベースの準備
+1. `backend/Research.json.sample` をコピーして `backend/Research.json` を作成してください。
+   ```bash
+   cp backend/Research.json.sample backend/Research.json
+
 ## 起動方法
 
 - cd frontend
@@ -28,5 +33,7 @@
 - cd backend
 - pip install -r requirements.txt
 - python main.py
+
+
 
 

@@ -49,3 +49,5 @@ node_modules/
 .next/
 venv/
 .env*
+
+backend/Research.json
