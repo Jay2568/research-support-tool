@@ -12,7 +12,7 @@
 - **Styling**: Tailwind CSS
 
 ### Backend
-- **Framework**: Python (FastAPI / Flask ※実際に使っている方を選んでください)
+- **Framework**: Python 
 - **API**: OpenAI API (論文要約・解析用)
 
 ## 📁 ディレクトリ構成
